@@ -1,6 +1,6 @@
 # Group Project 2 - Ski Resorts
 
-PPT - Contains the back up presentation
+PPT - Contains the back up PowerPoint presentation.
 
 Resources - Contains the original dataset, cleaned versions plus code to convert from csv to json, from json to geojson format, csv to sqlite, and database schema.
 
@@ -10,4 +10,4 @@ skiResort > static - Contains the CSS, and JavaScript files for the visualizatio
 
 skiResort > templates - Contains the project's HTML pages.
 
-The project is deployed on Heroku and can be accessed using the url: https://ski-resort-project.herokuapp.com
+The Ski Resorts project is deployed on Heroku and can be accessed using the url: https://ski-resort-project.herokuapp.com
