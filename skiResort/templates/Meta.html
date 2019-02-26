@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Ski Resorts</title>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="/">Ski Resorts</a>
+                </li>
+            </ul>
+        </div>
+        <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+            <ul class="navbar-nav ml-auto">
+                <li class="nav-item">
+                    <a class="nav-link" href="/metadata">About</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <br>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 jumbotron text-center">
+                <h1>Meta Data</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 col-md-12">
+                <li><b>Resort Name:</b> The name of the resort.</li>
+                <li><b>Continent:</b> The Continent the resort is located in. </li>
+                <li><b>Country:</b> The country the resort is located in. </li>
+                <li><b>State/Province:</b> Further refinement of the resort location to state or province level. </li>
+                <li><b>URL:</b> The URL that the majority of the data was extracted from. </li>
+                <li><b>Altitude:</b> The elevation in metres above sea level. </li>
+                <li><b>Easy:</b> The cumulative distance of beginner slopes in km. </li>
+                <li><b>Intermediate:</b> The cumulative distance of intermediate slopes in km. </li>
+                <li><b>Difficult:</b> The cumulative distance of difficult slopes in km. </li>
+                <li><b>Adult:</b> The estimated price of an adult (age &gt; 16 ) ski pass in local currency. </li>
+                <li><b>Youth:</b> The estimated price of an youth ski (6 &gt; age &gt; 16) pass in local currency. </li>
+                <li><b>Child:</b> The estimated price of an child (age &lt; 6) ski pass in local currency. </li>
+                <li><b>Currency:</b> The definition of the local currency </li>
+                <li><b>Ski resort size:</b> A rating (out of 5 stars) for the size of the resort. </li>
+                <li><b>Slope offering, variety of runs:</b> A rating (out of 5 stars) for the slope offering of the resort. </li>
+                <li><b>Lifts and cable cars:</b> A rating (out of 5 stars) for the number, quality and capacity of the lifts at the resort.</li>
+                <li><b>Latitude:</b> the geographic coordinate that specifies the north–south position of a point on the Earth 's surface.</li>
+                <li><b>Longitude:</b> the geographic coordinate that specifies the east–west position of a point on the Earth's surface. </li>
+            </div>
+        </div>
+    </div>
+    <br>
+    <!-- Footer-->
+    <div id="footer" class="bg-dark">
+        <p>Group Project: Bill Nash, Scott Stevener, Erica Unterreiner, Rui Wang</p>
+    </div>
+</body>
