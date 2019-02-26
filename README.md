@@ -1,7 +1,5 @@
 # Group Project 2 - Ski Resorts
 
-Group_Project_Unit18
-
 PPT - Contains the back up presentation
 
 Resources - Contains the original dataset, cleaned versions plus code to convert from csv to json, from json to geojson format, csv to sqlite, and database schema.
