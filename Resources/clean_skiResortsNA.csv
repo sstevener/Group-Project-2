@@ -1,0 +1,434 @@
+ID,ResortName,Continent,Country,StateProvince,URL,Altitude,Easy,Intermediate,Difficult,Adult,Youth,Child,Currency,ResortSize,SlopeOfferingVariety,LiftsAndCableCars,Latitude,Longitude
+2131,kettlebowl,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/kettlebowl/,542,0.3,1.1,0,5,3,2,US Dollar,1.3,1.3,1,45.2717983,-88.901379
+2599,living-memorial-park-brattleboro,North America,USA,Vermont,http://www.skiresort.info/ski-resort/living-memorial-park-brattleboro/,189,0.5,0,0,5,0,0,US Dollar,1.1,1,1.5,42.8479991,-72.5864768
+3708,powderhouse-hill-south-berwick,North America,USA,Maine,http://www.skiresort.info/ski-resort/powderhouse-hill-south-berwick/,80,0.5,0,0,5,0,0,US Dollar,1.1,1,1,43.2366733,-70.8023666
+3040,mount-prospect-lancaster,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/mount-prospect-lancaster/,520,0.5,0.3,0,7,0,5,US Dollar,1.2,1.2,1,44.453088,-71.55851
+1900,innisfail,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/innisfail/,955,0.4,0.4,0,8,0,0,Canadian Dollar,1.2,1.2,1,52.0274064,-113.9470957
+3783,quoggy-jo-ski-center-presque-isle,North America,USA,Maine,http://www.skiresort.info/ski-resort/quoggy-jo-ski-center-presque-isle/,275,0.8,0,0,8,0,0,US Dollar,1.2,1,1.5,46.7222168,-67.9292902
+3709,powers-bluff,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/powers-bluff/,436,1,0,0,8,0,0,US Dollar,1.3,1,1,44.5298318,-90.0712357
+2151,kinsmen-little-red-river-park-prince-albert,North America,Canada,Saskatchewan,http://www.skiresort.info/ski-resort/kinsmen-little-red-river-park-prince-albert/,438,0.3,0,0,10,0,0,Canadian Dollar,1.1,1,1,53.2219265,-105.7129915
+5281,winter-park-kewaunee-county,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/winter-park-kewaunee-county/,225,0.5,0.5,0.1,10,0,0,US Dollar,1.3,1.5,1.5,44.459461,-87.559558
+811,chester-bowl-park,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/chester-bowl-park/,380,0.6,0,0,10,0,0,US Dollar,1.2,1,3,46.8135101,-92.0907824
+4611,storrs-hill-lebanon,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/storrs-hill-lebanon/,282,0.7,0.3,0,10,0,7,US Dollar,1.3,1.3,1.5,43.6351892,-72.2521083
+5031,val-dor,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/val-dor/,356,0.8,0,0,11,0,0,Canadian Dollar,1.2,1,1.5,48.0987106,-77.7967676
+2939,mont-pits-cabano,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-pits-cabano/,204,0.7,0,0,12,0,10,Canadian Dollar,1.2,1,1.5,47.674838,-68.8804645
+2597,lively,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/lively/,310,0.3,0.2,0.1,14,12,10,Canadian Dollar,1.2,1.5,1.5,46.4365557,-81.1465746
+1836,hudsons-hope-portage-mountain,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/hudsons-hope-portage-mountain/,843,0.2,0,0,15,0,10,Canadian Dollar,1,1,1,55.985,-122.1430555
+747,centre-de-plein-air-levis,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/centre-de-plein-air-levis/,100,0.3,0.1,0.1,15,0,10,Canadian Dollar,1.1,1.4,1.5,46.8215242,-71.1598398
+698,campton-mountain,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/campton-mountain/,435,0.6,0.5,0.2,15,0,0,US Dollar,1.3,1.6,2.8,43.8663073,-71.6095102
+2423,lake-city-ski-hill,North America,USA,Colorado,http://www.skiresort.info/ski-resort/lake-city-ski-hill/,2771,0.7,0.3,0,15,0,7,US Dollar,1.3,1.3,1.5,38.0109874,-107.3116354
+3277,northeast-slopes-east-corinth,North America,USA,Vermont,http://www.skiresort.info/ski-resort/northeast-slopes-east-corinth/,355,1.2,1,0,15,0,0,US Dollar,1.3,1.3,1.2,44.0726057,-72.2504925
+2675,lyndon-outing-club,North America,USA,Vermont,http://www.skiresort.info/ski-resort/lyndon-outing-club/,380,1.5,1,0.1,15,0,10,US Dollar,1.3,1.5,1.4,44.5333103,-71.9872058
+1008,do-mi-ski-dolbeau-mistassini,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/do-mi-ski-dolbeau-mistassini/,158,2,2,0,15,0,12,Canadian Dollar,1.5,1.5,3,48.891903,-72.2380961
+4813,terrebonne,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/terrebonne/,120,0.5,0,0,16.25,0,12.75,Canadian Dollar,1.1,1,1,45.6929818,-73.6331102
+366,beauce-vallee-jonction,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/beauce-vallee-jonction/,212,0.5,1.8,0.8,17,13,11,Canadian Dollar,1.5,1.8,1.5,46.3718514,-70.9291984
+2510,leavenworth-ski-hill,North America,USA,Washington State,http://www.skiresort.info/ski-resort/leavenworth-ski-hill/,520,1,0,0,18,0,14,US Dollar,1.3,1,1,47.5988356,-120.6686832
+1532,gwynne-valley,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/gwynne-valley/,742,0.7,0.3,0,19,17,15,Canadian Dollar,1.3,1.3,1.3,52.9851967,-113.2172478
+2908,mont-bellevue,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-bellevue/,332,2,1,0,19.5,17.5,17,Canadian Dollar,1.5,1.5,2.6,45.3995516,-71.8942377
+1074,eagle-island-park,North America,USA,Idaho,http://www.skiresort.info/ski-resort/eagle-island-park/,781,0.1,0,0,20,0,20,US Dollar,1,1,1,43.6907816,-116.3942128
+442,big-bam-taylor,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/big-bam-taylor/,469,0.3,0.2,0.1,20,0,15,Canadian Dollar,1.2,1.5,1,56.1312083,-120.7001889
+3096,mt-pisgah,North America,USA,New York,http://www.skiresort.info/ski-resort/mt-pisgah/,627,1,0,0,20,0,0,US Dollar,1.3,1,1.5,40.691595,-73.945958
+2123,kendall-mountain-silverton,North America,USA,Colorado,http://www.skiresort.info/ski-resort/kendall-mountain-silverton/,3000,1,0.5,0.2,20,0,15,US Dollar,1.3,1.6,3,37.8112094,-107.6569087
+2915,mont-chilly,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-chilly/,311,1,0.7,0.8,20,0,0,Canadian Dollar,1.3,1.7,1.5,45.9145505,-76.7456388
+2624,lonesome-pine-trails-fort-kent,North America,USA,Maine,http://www.skiresort.info/ski-resort/lonesome-pine-trails-fort-kent/,299,1,1.6,2,20,0,17,US Dollar,1.5,1.8,1.4,47.2460346,-68.5944676
+3026,mount-joy,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/mount-joy/,757,1,1.3,0.7,20,0,15,Canadian Dollar,1.5,1.8,2.9,53.100157,-110.157243
+3950,rotarun,North America,USA,Idaho,http://www.skiresort.info/ski-resort/rotarun/,1790,1,2,1.5,20,0,10,US Dollar,1.5,1.8,1.5,43.4973787,-114.3650597
+1124,elko-snobowl,North America,USA,Nevada,http://www.skiresort.info/ski-resort/elko-snobowl/,2130,1.5,1.5,0,20,0,15,US Dollar,1.5,1.5,2.9,40.9089065,-115.8520453
+317,bald-mountain,North America,USA,Idaho,http://www.skiresort.info/ski-resort/bald-mountain/,1463,3,4,2,20,0,17,US Dollar,2,2.3,1.4,43.6549064,-114.4092186
+3086,mt-jefferson,North America,USA,Maine,http://www.skiresort.info/ski-resort/mt-jefferson/,230,3,4,2.5,20,0,15,US Dollar,2,2.4,1.4,45.3522838,-68.2822408
+857,clearwater,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/clearwater/,1250,4,3,1,20,0,0,Canadian Dollar,1.9,2.2,1.3,51.6510712,-120.0381726
+365,beartown,North America,USA,New York,http://www.skiresort.info/ski-resort/beartown/,304,0.5,0.3,0,22,0,20,US Dollar,1.2,1.2,1.5,44.7580964,-73.5804158
+80,alice-hill-park-pembroke,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/alice-hill-park-pembroke/,210,1,0.5,0,22,0,18,Canadian Dollar,1.3,1.3,1.5,43.2285102,-79.8660836
+5072,valley-ski-hill-alliance,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/valley-ski-hill-alliance/,687,0.7,0.4,0,23,21,19,Canadian Dollar,1.3,1.3,1.5,52.413391,-111.823844
+1190,fairview-ski-hill,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/fairview-ski-hill/,580,1.4,0.8,1.8,23,20,12,Canadian Dollar,1.5,1.8,1.5,55.995608,-118.604935
+3064,mt-ashwabay-salmo,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/mt-ashwabay-salmo/,389,1.5,1.2,1.3,24,0,18,US Dollar,1.5,1.9,2.7,46.7772283,-90.8945596
+4067,sand-master-park-florence,North America,USA,Oregon,http://www.skiresort.info/ski-resort/sand-master-park-florence/,40,0,0,0.1,25,0,0,US Dollar,1,1,1,44.013123,-124.102709
+3030,mount-martin-deep-river,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/mount-martin-deep-river/,144,0.3,0.3,0.3,25,0,0,Canadian Dollar,1.2,1.6,1.5,46.1129204,-77.5095819
+2862,misty-ridge,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/misty-ridge/,675,0.6,0.4,0,25,0,20,Canadian Dollar,1.3,1.3,1.5,54.3618422,-114.5410705
+1631,heiliger-huegel-hubertus,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/heiliger-huegel-hubertus/,391,0.6,0.4,0.2,25,0,0,US Dollar,1.3,1.6,2.7,43.253051,-88.3129969
+4525,spruce-mountain-jay,North America,USA,Maine,http://www.skiresort.info/ski-resort/spruce-mountain-jay/,183,0.6,1.4,0.4,25,0,20,US Dollar,1.3,1.6,1,44.4782936,-70.2022377
+1192,falcon-ridge,North America,Canada,Manitoba,http://www.skiresort.info/ski-resort/falcon-ridge/,367,1.2,0.3,0,25,21,16,Canadian Dollar,1.3,1.3,1.1,49.8239496,-97.1871532
+1825,howelsen-hill-steamboat-springs,North America,USA,Colorado,http://www.skiresort.info/ski-resort/howelsen-hill-steamboat-springs/,2175,1.7,1.5,0.8,25,0,15,US Dollar,1.5,1.8,2.5,40.4805325,-106.8406049
+4843,thunderhill-benito,North America,Canada,Manitoba,http://www.skiresort.info/ski-resort/thunderhill-benito/,572,3,1,0.9,25,0,21,Canadian Dollar,1.5,1.8,1.5,51.9146349,-101.548625
+3368,oglebay-resort,North America,USA,West Virginia,http://www.skiresort.info/ski-resort/oglebay-resort/,0,1,0,0,26,0,21,US Dollar,1.3,1,3,40.1048358,-80.6594052
+3197,navarino-hills,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/navarino-hills/,270,0.5,0.3,0,27,0,10,US Dollar,1.2,1.2,2.4,44.610385,-88.5854796
+1646,hermon-mountain,North America,USA,Maine,http://www.skiresort.info/ski-resort/hermon-mountain/,140,2,0.5,0.5,27,0,22,US Dollar,1.5,1.8,2.3,44.7807854,-68.9572709
+5240,whispering-pines-worsley,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/whispering-pines-worsley/,1060,4,2,2,28,20,12,Canadian Dollar,1.9,2.3,2.6,56.602427,-119.3917278
+4049,salmo-ski-hill,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/salmo-ski-hill/,1030,2,2,1,28.5,21,18,Canadian Dollar,1.7,2,1.5,49.1815981,-117.2906706
+5195,wapiti-valley,North America,Canada,Saskatchewan,http://www.skiresort.info/ski-resort/wapiti-valley/,310,2,3,1,29,26,23,Canadian Dollar,1.7,2,2.8,53.2332362,-104.4598692
+478,black-mountain-rumford,North America,USA,Maine,http://www.skiresort.info/ski-resort/black-mountain-rumford/,650,2,3.5,2.5,29,0,0,US Dollar,1.9,2.3,2.7,44.5839515,-70.6370122
+1093,edmonton-ski-club,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/edmonton-ski-club/,662,0.2,0.6,0.2,30,27,25,Canadian Dollar,1.3,1.6,1.4,53.534401,-113.476478
+5250,whitetail-ridge-fort-mccoy,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/whitetail-ridge-fort-mccoy/,322,0.7,0.5,0,30,0,25,US Dollar,1.3,1.3,1.5,44.0218446,-90.7214354
+270,ausblick-sussex,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/ausblick-sussex/,350,0.8,0.6,0,30,0,0,US Dollar,1.3,1.3,2.5,43.1346697,-88.2645831
+3077,mt-eyak,North America,USA,Alaska,http://www.skiresort.info/ski-resort/mt-eyak/,366,1,2,2,30,0,20,US Dollar,1.7,2,3,60.5500012,-145.7499932
+1057,duck-mountain-kamsack,North America,Canada,Saskatchewan,http://www.skiresort.info/ski-resort/duck-mountain-kamsack/,637,1.8,1.7,1,30,25,19,Canadian Dollar,1.5,1.8,1.5,51.5654703,-101.8870876
+4661,summit-ski-area-at-mt-hood,North America,USA,Oregon,http://www.skiresort.info/ski-resort/summit-ski-area-at-mt-hood/,1312,2,2,0,30,0,20,US Dollar,1.5,1.5,3,45.3029059,-121.7458283
+4785,tawatinaw-valley-pine-valley-resort,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/tawatinaw-valley-pine-valley-resort/,681,2.2,3,1.5,30,0,24,Canadian Dollar,1.7,2,1.5,54.2967543,-113.477001
+2790,mccauly-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/mccauly-mountain/,700,3,4,2,30,0,25,US Dollar,2,2.3,2.4,43.6971947,-74.9661585
+3044,mount-ski-gull,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/mount-ski-gull/,443,0.7,0.7,0.7,31,0,24,US Dollar,1.3,1.7,2.5,46.4475173,-94.3779162
+5194,wapiti-ski-hill-elkford,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/wapiti-ski-hill-elkford/,1657,4.6,2,1,31,21,13,Canadian Dollar,1.9,2.2,1.5,50.0217895,-114.9393082
+3080,mt-holiday,North America,USA,Michigan,http://www.skiresort.info/ski-resort/mt-holiday/,274,1,2,1.5,32,0,26,US Dollar,1.5,1.8,2.6,44.7434767,-85.5143504
+4416,snow-snake,North America,USA,Michigan,http://www.skiresort.info/ski-resort/snow-snake/,365,1,1.5,0.5,32,0,0,US Dollar,1.5,1.8,2.4,43.959106,-84.7809281
+2905,mont-avalanche,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-avalanche/,555,3,2,2,32,27,21,Canadian Dollar,1.9,2.3,3,45.9701029,-74.3469339
+1681,hilltop-anchorage,North America,USA,Alaska,http://www.skiresort.info/ski-resort/hilltop-anchorage/,140,4,1,0,32,30,20,US Dollar,1.7,1.7,2.8,61.140846,-149.7449609
+885,cooper-spur,North America,USA,Oregon,http://www.skiresort.info/ski-resort/cooper-spur/,1325,4,4,2,32,0,28,US Dollar,2,2.3,3,45.4116278,-121.605828
+2150,kinosoo-ridge,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/kinosoo-ridge/,647,1.5,2,1.5,33,0,27,Canadian Dollar,1.7,2.1,3,54.440634,-110.017379
+5030,val-direne,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/val-direne/,700,3,4,6,33.1,29.39,23.86,Canadian Dollar,2.2,2.5,2.6,48.465849,-67.5753489
+2463,laurentian-ski-hill-north-bay,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/laurentian-ski-hill-north-bay/,325,1.3,0.2,0,34,0,28,Canadian Dollar,1.3,1.3,2.8,46.3377578,-79.4322181
+4379,sleeping-giant,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/sleeping-giant/,2265,3,8,6,34,26,16,US Dollar,2.3,2.6,2.7,44.495161,-109.943619
+1855,hyland-ski-snowboard-area,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/hyland-ski-snowboard-area/,310,0.6,0.4,0.2,34.49,0,30.76,US Dollar,1.3,1.6,3,44.84363,-93.363611
+2944,mont-saint-mathieu,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-saint-mathieu/,441,3,3,4,34.55,25.57,23.99,Canadian Dollar,2,2.4,3,48.1543463,-69.0105774
+4442,snowstar,North America,USA,Illinois,http://www.skiresort.info/ski-resort/snowstar/,235,0.5,1.5,2,35,0,30,US Dollar,1.5,1.8,2.9,41.425203,-90.746175
+1454,granlibakken,North America,USA,Western United States,http://www.skiresort.info/ski-resort/granlibakken/,2015,1,1,0,35,0,25,US Dollar,1.3,1.3,1.4,39.1563669,-120.154041
+814,chicopee,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/chicopee/,370,1,2,1.3,35,0,8,Canadian Dollar,1.5,1.8,3,43.4359292,-80.41829
+3020,mount-evergreen-kenora,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/mount-evergreen-kenora/,401,1.1,0.3,0.8,35,0,30,Canadian Dollar,1.3,1.6,1.5,49.7957115,-94.412303
+4318,sitzmark,North America,USA,Washington State,http://www.skiresort.info/ski-resort/sitzmark/,1485,2,3,2.5,35,28,22,US Dollar,1.9,2.3,2.8,48.8639216,-119.165055
+181,anthony-lakes-mountain-resort,North America,USA,Oregon,http://www.skiresort.info/ski-resort/anthony-lakes-mountain-resort/,2438,2,3.8,4.2,35,29,21,US Dollar,2,2.3,2.9,44.9993663,-118.0542452
+4518,spout-springs,North America,USA,Oregon,http://www.skiresort.info/ski-resort/spout-springs/,1670,3,5,1.5,35,30,25,US Dollar,2,2.3,3,45.7552425,-118.051421
+4361,skiland-mt-aurora,North America,USA,Alaska,http://www.skiresort.info/ski-resort/skiland-mt-aurora/,745,4,9,4,35,0,20,US Dollar,2.3,2.6,3,65.0456703,-147.4103557
+4227,seven-oaks,North America,USA,Iowa,http://www.skiresort.info/ski-resort/seven-oaks/,330,1.5,2,0.5,36,0,27,US Dollar,1.5,1.8,3,42.0306987,-93.9533806
+3781,quechee-lakes-ski-area,North America,USA,Vermont,http://www.skiresort.info/ski-resort/quechee-lakes-ski-area/,380,2,2.5,0.5,36,0,32,US Dollar,1.7,2,2.8,43.6570521,-72.4403071
+2792,mcintyre,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/mcintyre/,155,2.5,0.5,0,36,0,32,US Dollar,1.5,1.5,3,43.0065773,-71.4416724
+2923,mont-farlagne,North America,Canada,New Brunswick,http://www.skiresort.info/ski-resort/mont-farlagne/,338,3,3.5,3.5,36,0,28,Canadian Dollar,2,2.4,2.8,47.401389,-68.390833
+2932,mont-la-reserve-saint-donat-de-montcalm,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-la-reserve-saint-donat-de-montcalm/,405,5,2,8,36,27,24,Canadian Dollar,2.2,2.5,2.9,46.2871277,-74.1793573
+2785,maverick-mountain,North America,USA,Montana,http://www.skiresort.info/ski-resort/maverick-mountain/,2596,6,8,6,36,0,22,US Dollar,2.5,2.9,3,45.4485354,-113.1631003
+349,batawa-ski-hill,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/batawa-ski-hill/,80,0.2,0.9,0.4,37,0,32,Canadian Dollar,1.3,1.6,2,44.1671765,-77.5967494
+4106,sawmill-mountain-resort,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/sawmill-mountain-resort/,620,0.9,2.5,1,37,0,30,US Dollar,1.5,1.8,2.6,41.5186034,-77.2907495
+4684,sunridge,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/sunridge/,673,0.5,0.4,0.7,38,36,21,Canadian Dollar,1.3,1.7,2.9,51.0732391,-113.9933928
+4423,snow-valley-edmonton,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/snow-valley-edmonton/,665,1,0,0.2,38,36,31,Canadian Dollar,1.3,1.3,3,53.4836592,-113.5565128
+3038,mount-pleasant,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/mount-pleasant/,450,2,2,1,38,0,33,US Dollar,1.7,2,2.8,40.1489607,-79.5411497
+454,bigrock-mountain,North America,USA,Maine,http://www.skiresort.info/ski-resort/bigrock-mountain/,498,2,14,4,38,27,17,US Dollar,2.4,2.7,3,46.5224036,-67.8289461
+1386,glen-eden,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/glen-eden/,320,3,2,0,38,0,33,Canadian Dollar,1.7,1.7,3,43.508534,-79.942617
+396,ben-eoin,North America,Canada,Nova Scotia,http://www.skiresort.info/ski-resort/ben-eoin/,154,3,4,3,38,0,0,Canadian Dollar,2,2.4,2.3,45.9740292,-60.4339797
+3677,pomerelle,North America,USA,Idaho,http://www.skiresort.info/ski-resort/pomerelle/,2640,4,7,4,38,0,29,US Dollar,2.2,2.6,3,42.3179871,-113.6077523
+3310,oak-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/oak-mountain/,740,6,4,2,38,0,27,US Dollar,2.1,2.4,2.8,43.5181145,-74.3622147
+4461,soldier-mountain,North America,USA,Idaho,http://www.skiresort.info/ski-resort/soldier-mountain/,2188,9,8,8,38,0,22,US Dollar,2.5,2.9,3,43.485512,-114.82938
+518,boler-mountain-london,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/boler-mountain-london/,328,3,2.2,0.8,39,0,36,Canadian Dollar,1.7,2,3,42.9443965,-81.3393669
+1653,hesperus-ski-area,North America,USA,Colorado,http://www.skiresort.info/ski-resort/hesperus-ski-area/,2706,3,5,2,39,33,28,US Dollar,2,2.3,2.8,37.2995933,-108.055101
+4450,soda-springs,North America,USA,Western United States,http://www.skiresort.info/ski-resort/soda-springs/,2232,3,5,2,39,39,29,US Dollar,2,2.3,3,39.3232377,-120.3799251
+2994,moose-mountain,North America,USA,Alaska,http://www.skiresort.info/ski-resort/moose-mountain/,595,3,12,10,39,34,29,US Dollar,2.5,2.8,1,64.940556,-147.990556
+2938,mont-orignal-lac-etchemin,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-orignal-lac-etchemin/,612,4,6,5,39.95,32,24,Canadian Dollar,2.2,2.6,3.8,46.4169444,-70.6
+2906,mont-avila,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-avila/,416,5,5,3,39.99,0,28.99,Canadian Dollar,2.2,2.5,3.3,45.886041,-74.131592
+5125,villa-olivia-bartlett,North America,USA,Illinois,http://www.skiresort.info/ski-resort/villa-olivia-bartlett/,258,0.2,0.6,0.6,40,29,17,US Dollar,1.3,1.6,2.2,42.012825,-88.22016
+4086,sapphire-valley,North America,USA,North Carolina,http://www.skiresort.info/ski-resort/sapphire-valley/,1005,0.5,0,0,40,0,23,US Dollar,1.1,1,3,35.1070374,-83.0029198
+985,detroit-mountain,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/detroit-mountain/,490,1,1,0,40,0,32,US Dollar,1.3,1.3,3,46.8162218,-95.7835195
+3444,otis-ridge,North America,USA,Massachusetts,http://www.skiresort.info/ski-resort/otis-ridge/,480,1.2,1.5,1,40,35,15,US Dollar,1.5,1.9,2.5,42.2081449,-73.1176052
+2759,martock,North America,Canada,Nova Scotia,http://www.skiresort.info/ski-resort/martock/,185,2.5,0.5,0,40,0,30,Canadian Dollar,1.5,1.5,2.5,44.951598,-64.1605739
+3091,mt-lemmon-ski-valley,North America,USA,Arizona,http://www.skiresort.info/ski-resort/mt-lemmon-ski-valley/,2750,2.5,4,2,40,0,20,US Dollar,1.9,2.2,3,32.4474562,-110.7816719
+3965,royal-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/royal-mountain/,533,2.5,3,2,40,0,30,US Dollar,1.9,2.3,3,43.0813015,-74.5048141
+2119,kelly-canyon,North America,USA,Idaho,http://www.skiresort.info/ski-resort/kelly-canyon/,2030,4,5,3,40,0,32,US Dollar,2.1,2.5,3,46.715749,-115.2576333
+900,crabbe-mountain,North America,Canada,New Brunswick,http://www.skiresort.info/ski-resort/crabbe-mountain/,370,4,2,14,40,35,30,Canadian Dollar,2.4,2.7,2.3,46.117097,-67.100672
+687,camp-fortune,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/camp-fortune/,276,5,12,6,40,30,20,Canadian Dollar,2.5,2.8,2.9,45.5107837,-75.8517533
+1459,great-divide,North America,USA,Montana,http://www.skiresort.info/ski-resort/great-divide/,2210,10,20,20,40,30,20,US Dollar,3.1,3.4,3,45.8140865,-112.7108367
+2500,le-relais-lac-beauport,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/le-relais-lac-beauport/,429,4,5,6,40.88,32.18,22.61,Canadian Dollar,2.2,2.6,3.9,46.9413789,-71.2990775
+3784,rabbit-hill-snow-resort,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/rabbit-hill-snow-resort/,700,1.5,1,0.5,41,38,33,Canadian Dollar,1.5,1.8,2.2,53.381405,-113.6722725
+5136,vista-ridge,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/vista-ridge/,375,2,2,0.5,41,38,35,Canadian Dollar,1.5,1.8,3,56.661712,-111.133895
+2941,mont-rigaud,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-rigaud/,174,2,3,4,41,0,37,Canadian Dollar,2,2.3,3,45.4680559,-74.3391609
+3087,mt-kato,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/mt-kato/,313,2.5,4.5,5,41,0,33,US Dollar,2.1,2.4,2.9,44.1331486,-94.0334256
+1669,hidden-valley-ab,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/hidden-valley-ab/,1400,3,3,2,41,35,28,Canadian Dollar,1.9,2.3,2.8,51.1513095,-114.1182466
+2912,mont-cascades,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-cascades/,305,4,11,5,41,32,24,Canadian Dollar,2.4,2.7,3,45.5924199,-75.8488709
+4672,sunburst,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/sunburst/,357,0.5,1.5,1,42,0,25,US Dollar,1.5,1.8,2.6,43.493936,-88.224007
+3491,paoli-peaks,North America,USA,Indiana,http://www.skiresort.info/ski-resort/paoli-peaks/,251,2.6,3,1,42,0,36,US Dollar,1.7,2,3,38.5555032,-86.5122754
+677,calabogie-peaks,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/calabogie-peaks/,370,4,4,0,42,37,28,Canadian Dollar,1.9,1.9,3,45.27475,-76.78143
+2926,mont-garceau,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-garceau/,717,4,3,3,42,32,25,Canadian Dollar,2,2.4,3,46.337413,-74.220079
+3043,mount-sima,North America,Canada,Yukon,http://www.skiresort.info/ski-resort/mount-sima/,1035,5,3,2,42,33,20,Canadian Dollar,2,2.3,2.8,60.6119143,-135.0453421
+709,canyon-ski-area,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/canyon-ski-area/,899,5,7,1,42,0,0,Canadian Dollar,2.2,2.4,2.7,52.3040051,-113.6826235
+810,cherry-peak,North America,USA,Utah,http://www.skiresort.info/ski-resort/cherry-peak/,2635,5,10,5,42,0,32,US Dollar,2.4,2.8,3,41.9232626,-111.695497
+2638,lost-trail-powder-mountain,North America,USA,Montana,http://www.skiresort.info/ski-resort/lost-trail-powder-mountain/,2550,15,25,10,42,0,32,US Dollar,3.2,3.5,3,45.6935102,-113.9501248
+109,alpine-valley-cleveland,North America,USA,Ohio,http://www.skiresort.info/ski-resort/alpine-valley-cleveland/,457,0.4,0.6,0.5,43,0,38,US Dollar,1.3,1.7,2.9,41.480547,-81.622342
+3147,mystic-mountain-farmington,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/mystic-mountain-farmington/,619,2.3,1,0.6,43,0,35,US Dollar,1.5,1.8,2.9,39.8134861,-79.5460704
+3610,pine-creek,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/pine-creek/,2508,4,7,5,43,0,38,US Dollar,2.3,2.7,3,42.1024841,-110.877603
+5237,whaleback,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/whaleback/,543,5.2,2.8,3.5,43,32,27,US Dollar,2.1,2.4,2.8,43.601705,-72.180265
+3534,pebble-creek,North America,USA,Idaho,http://www.skiresort.info/ski-resort/pebble-creek/,2609,6,9,4,43,0,29,US Dollar,2.5,2.8,3,42.7473612,-112.0667162
+1783,holiday-mountain-mb,North America,Canada,Manitoba,http://www.skiresort.info/ski-resort/holiday-mountain-mb/,460,0.6,1,0.3,44,38,28,Canadian Dollar,1.3,1.6,3,49.237733,-98.693747
+2596,little-switzerland-ski-resort,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/little-switzerland-ski-resort/,380,1.1,1.3,0.6,44,0,32,US Dollar,1.5,1.8,2.6,43.3378391,-88.2789304
+632,buck-hill-ski-area,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/buck-hill-ski-area/,371,1.2,0.8,0.2,44,0,32,US Dollar,1.3,1.5,2.7,44.7231319,-93.287252
+4402,snow-creek,North America,USA,Missouri,http://www.skiresort.info/ski-resort/snow-creek/,335,1.3,1.8,0.1,44,0,29,US Dollar,1.5,1.7,2.9,39.4673259,-94.9707264
+3262,nordic-mountain,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/nordic-mountain/,346,2,3,1.5,44,0,30,US Dollar,1.7,2,2.6,44.1213922,-89.1812861
+2629,lookout-pass,North America,USA,Idaho,http://www.skiresort.info/ski-resort/lookout-pass/,1675,8,14,9,44,0,32,US Dollar,2.7,3.1,3,47.4554862,-115.6968233
+1590,harper-mountain,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/harper-mountain/,1520,5,10,5,44.76,0,28.57,Canadian Dollar,2.4,2.8,2.7,50.7236425,-120.1383357
+364,beartooth-basin,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/beartooth-basin/,3322,0,2,3,45,0,0,US Dollar,1.7,1.7,1.5,44.9751148,-109.4347501
+3802,raging-buffalo-algonquin,North America,USA,Illinois,http://www.skiresort.info/ski-resort/raging-buffalo-algonquin/,260,0.3,0.2,0,45,0,0,US Dollar,1.1,1.1,1,42.1473153,-88.2939445
+2639,lost-valley,North America,USA,Maine,http://www.skiresort.info/ski-resort/lost-valley/,166,1,0.5,0.5,45,0,40,US Dollar,1.3,1.7,3,44.1340569,-70.2823728
+835,christmas-mountain,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/christmas-mountain/,370,1.3,0.5,0.2,45,0,31,US Dollar,1.3,1.6,2.8,43.609581,-89.861353
+2942,mont-ripley,North America,USA,Michigan,http://www.skiresort.info/ski-resort/mont-ripley/,330,2,2.2,2.7,45,0,40,US Dollar,1.7,2.1,2.7,47.127847,-88.560052
+3282,norway-mountain,North America,USA,Michigan,http://www.skiresort.info/ski-resort/norway-mountain/,406,2.5,3.5,2,45,37,25,US Dollar,1.9,2.3,2.8,45.789492,-87.869853
+3612,pine-mountain,North America,USA,Michigan,http://www.skiresort.info/ski-resort/pine-mountain/,461,2.5,5.5,1.5,45,37,25,US Dollar,2,2.3,2.9,45.845574,-88.0921662
+3263,nordic-valley,North America,USA,Utah,http://www.skiresort.info/ski-resort/nordic-valley/,1930,2.5,4,3,45,0,35,US Dollar,2,2.4,3,41.3103554,-111.8648485
+2688,mad-river-mountain,North America,USA,Ohio,http://www.skiresort.info/ski-resort/mad-river-mountain/,445,3,2,1.3,45,0,35,US Dollar,1.7,2,2.9,40.3180764,-83.6776953
+2793,meadowlark-ski-lodge,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/meadowlark-ski-lodge/,2828,3,4,3,45,38,27,US Dollar,2,2.4,3,44.1740171,-107.214743
+4313,sipapu,North America,USA,New Mexico,http://www.skiresort.info/ski-resort/sipapu/,2825,3,7,8,45,39,29,US Dollar,2.3,2.6,2.8,36.154222,-105.5482163
+2050,kamiskotia,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/kamiskotia/,410,4,2,2,45,35,25,Canadian Dollar,1.9,2.3,2.8,48.583154,-81.630787
+4447,snowy-range,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/snowy-range/,2945,4.5,9,3,45,39,28,US Dollar,2.3,2.6,3,41.3477477,-106.3261289
+5228,wentworth,North America,Canada,Nova Scotia,http://www.skiresort.info/ski-resort/wentworth/,303,5,4,1,45,40,27,Canadian Dollar,2,2.3,2.6,45.656452,-63.549107
+4818,teton-pass,North America,USA,Montana,http://www.skiresort.info/ski-resort/teton-pass/,2194,6,5,4,45,40,30,US Dollar,2.2,2.6,2.6,47.9298126,-112.8109541
+4278,showdown,North America,USA,Montana,http://www.skiresort.info/ski-resort/showdown/,2500,6,8,6,45,40,25,US Dollar,2.4,2.8,3,46.8383601,-110.7004838
+974,deer-mountain,North America,USA,South Dakota,http://www.skiresort.info/ski-resort/deer-mountain/,2028,10,7,5,45,0,36,US Dollar,2.5,2.8,2.9,44.3087328,-103.8084943
+4859,titus-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/titus-mountain/,423,10,10,7,45,45,35,US Dollar,2.6,3,2.9,44.766619,-74.2329229
+702,canada-olympic-park-calgary,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/canada-olympic-park-calgary/,1246,3.5,0.5,0,45.99,28.99,18.99,Canadian Dollar,1,2,4,51.0846405,-114.2216983
+3063,mt-ashland,North America,USA,Oregon,http://www.skiresort.info/ski-resort/mt-ashland/,2286,1,7,5,46,0,36,US Dollar,2.2,2.4,3,42.0806826,-122.716849
+2756,marquette-mountain,North America,USA,Michigan,http://www.skiresort.info/ski-resort/marquette-mountain/,390,1.5,5,3.5,46,0,41,US Dollar,2,2.3,3,46.5082898,-87.4205293
+1000,discovery-ski-area,North America,USA,Montana,http://www.skiresort.info/ski-resort/discovery-ski-area/,2484,12,12,21,46,0,24,US Dollar,3.1,3.5,3,46.2496151,-113.238451
+301,badger-pass,North America,USA,California,http://www.skiresort.info/ski-resort/badger-pass/,2440,3.5,5,1.5,47,42,29.5,US Dollar,2,2.3,2.9,37.6657628,-119.6546087
+1188,fairmont-hot-springs,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/fairmont-hot-springs/,1526,4,4,2,47,37,24,Canadian Dollar,2,2.3,2.8,50.335927,-115.8511861
+675,caberfae-peaks,North America,USA,Michigan,http://www.skiresort.info/ski-resort/caberfae-peaks/,465,4,5,2,47,42,37,US Dollar,2.1,2.4,3,44.2447088,-85.7205725
+2961,montana-snowbowl,North America,USA,Montana,http://www.skiresort.info/ski-resort/montana-snowbowl/,2316,5,12,14,47,44,20,US Dollar,2.8,3.1,2.9,47.014436,-113.999568
+1671,hidden-valley-mo,North America,USA,Missouri,http://www.skiresort.info/ski-resort/hidden-valley-mo/,240,1,2,1,48,0,30,US Dollar,1.5,1.9,2.9,38.5295823,-90.6445331
+110,alpine-valley-resort-elkhorn,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/alpine-valley-resort-elkhorn/,415,1.5,1.5,1,48,0,43,US Dollar,1.5,1.9,3.5,42.7358161,-88.4280693
+3703,powder-ridge,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/powder-ridge/,432,2,1.5,0.5,48,0,0,US Dollar,1.5,1.8,2.8,45.3437094,-94.3052638
+2643,loup-loup-ski-bowl,North America,USA,Washington State,http://www.skiresort.info/ski-resort/loup-loup-ski-bowl/,1620,3,5,3,48,37,27,US Dollar,2.1,2.5,2.8,48.3943616,-119.91097
+5245,white-pine-pinedale,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/white-pine-pinedale/,2847,3.7,2.6,5.3,48,0,35,US Dollar,2.1,2.4,3,42.9778494,-109.7586597
+4521,spring-mountain,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/spring-mountain/,150,4,2.5,2,48,0,0,US Dollar,1.9,2.2,3,40.2756574,-75.4565657
+920,crystal-mountain-westbank,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/crystal-mountain-westbank/,1440,9,13,3,48,39,30,Canadian Dollar,2.5,2.8,2.9,49.8804776,-119.7100719
+368,beaver-mountain,North America,USA,Utah,http://www.skiresort.info/ski-resort/beaver-mountain/,2700,10,12,8,48,0,38,US Dollar,2.8,3.2,3,41.9640972,-111.5579911
+2929,mont-grand-fonds,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-grand-fonds/,735,3,4,3,48.27,0,32.18,Canadian Dollar,2,2.4,2.5,47.7666666,-70.0833333
+5196,ward-hill-shrewsbury,North America,USA,Massachusetts,http://www.skiresort.info/ski-resort/ward-hill-shrewsbury/,160,0.6,1,0.5,49,0,10,US Dollar,1.3,1.6,2.5,42.2881493,-71.6856241
+3095,mt-peter,North America,USA,New York,http://www.skiresort.info/ski-resort/mt-peter/,330,1,2,0.8,49,0,42,US Dollar,1.5,1.8,2.9,41.2414828,-74.2907059
+4420,snow-trails,North America,USA,Ohio,http://www.skiresort.info/ski-resort/snow-trails/,440,1.5,2.8,1,49,0,39,US Dollar,1.7,2,3,40.672904,-82.498508
+1086,echo-mountain-park-idaho-springs,North America,USA,Colorado,http://www.skiresort.info/ski-resort/echo-mountain-park-idaho-springs/,3401,2,1,0,49,0,39,US Dollar,1.5,1.5,2.9,39.6845817,-105.5193928
+4336,ski-brule,North America,USA,Michigan,http://www.skiresort.info/ski-resort/ski-brule/,565,2,4,1.5,49,0,43,US Dollar,1.9,2.2,2.7,46.0289274,-88.7004586
+1452,granite-gorge,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/granite-gorge/,404,3,2,1,49,0,42,US Dollar,1.7,2,2.9,42.970978,-72.212044
+4512,spirit-mountain,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/spirit-mountain/,390,4,5,2,49,0,39,US Dollar,2.1,2.4,3.6,46.7182684,-92.2167365
+2951,mont-ste-marie,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-ste-marie/,580,5,4,1,49,35,29,Canadian Dollar,2,2.3,3.8,45.942639,-75.879152
+5269,willamette-pass-crescent,North America,USA,Oregon,http://www.skiresort.info/ski-resort/willamette-pass-crescent/,2036,6,13,10,49,0,30,US Dollar,2.6,2.9,3.4,43.527227,-121.9422152
+3103,mt-waterman,North America,USA,California,http://www.skiresort.info/ski-resort/mt-waterman/,2440,2,2,6,50,40,20,US Dollar,2,2.3,3,34.3493069,-117.9287896
+4919,trollhaugen,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/trollhaugen/,362,2.5,1.5,0.9,50,0,40,US Dollar,1.5,1.8,2.6,45.3513159,-92.6180935
+247,asessippi,North America,Canada,Manitoba,http://www.skiresort.info/ski-resort/asessippi/,552,4,3,3,50,42.5,38.25,Canadian Dollar,2,2.4,2.9,50.951127,-101.339521
+5040,val-saint-come,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/val-saint-come/,600,5,8,5,50,43.27,36.53,Canadian Dollar,2.3,2.7,3.3,46.2726002,-73.8694224
+3013,mount-baldy,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/mount-baldy/,2303,10,15,10,50,25,10,Canadian Dollar,2.9,3.3,3,49.151417,-119.2403279
+595,brimacombe-oshawa-ski-club,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/brimacombe-oshawa-ski-club/,300,3,2,1,50.99,0,40.99,Canadian Dollar,1.7,2,2.5,44.022346,-78.574953
+3090,mt-la-crosse,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/mt-la-crosse/,372,1.5,3,2.5,51,0,48,US Dollar,1.9,2.2,2.9,43.7436241,-91.1829743
+1079,eaglecrest-juneau,North America,USA,Alaska,http://www.skiresort.info/ski-resort/eaglecrest-juneau/,820,3.4,6.8,6.8,52,42,28,US Dollar,2.3,2.6,3,58.2675,-134.5139999
+2911,mont-blanc,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-blanc/,556,7,12,16,52,41,26,Canadian Dollar,3,4,3,46.109076,-74.4832549
+884,cooper,North America,USA,Colorado,http://www.skiresort.info/ski-resort/cooper/,3566,8,10,8,52,0,32,US Dollar,2.6,3,2.5,40.3605356,-103.5291113
+986,devils-elbow,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/devils-elbow/,362,0.4,1.9,3.3,52.22,44.25,40.6,Canadian Dollar,1.7,1.9,3,44.2208659,-78.5750082
+4233,shames-mountain,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/shames-mountain/,1189,6,17,5,52.38,41.9,29.34,Canadian Dollar,2.6,2.9,2.8,54.5154929,-128.5997467
+2462,laurel-mountain,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/laurel-mountain/,837,4,3,1,53,0,43,US Dollar,1.9,2.2,2.9,40.2107916,-79.1851852
+4814,terry-peak,North America,USA,South Dakota,http://www.skiresort.info/ski-resort/terry-peak/,2130,4.7,7.2,4.1,53,0,39,US Dollar,2.3,2.7,4.1,44.3274841,-103.8352015
+2403,labrador-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/labrador-mountain/,570,6,6,5,53,0,43,US Dollar,2.3,2.7,2.9,42.741791,-76.030215
+3844,red-lodge-mountain,North America,USA,Montana,http://www.skiresort.info/ski-resort/red-lodge-mountain/,2870,11,30,24,53,42,22,US Dollar,3.5,3.8,3.4,45.1857782,-109.2468211
+3083,mt-hood-skibowl,North America,USA,Oregon,http://www.skiresort.info/ski-resort/mt-hood-skibowl/,1510,15,15,35,53,0,32,US Dollar,3.4,3.7,2.9,45.3017422,-121.7724581
+1639,hemlock-valley,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/hemlock-valley/,1372,2,6,2,53.33,43.81,27.62,Canadian Dollar,2,2.3,2.8,49.376709,-121.934807
+4705,swain,North America,USA,New York,http://www.skiresort.info/ski-resort/swain/,600,3,4.2,3.7,54,0,44,US Dollar,2,2.4,2.9,42.4778443,-77.8533322
+1373,giants-ridge,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/giants-ridge/,560,4,5,3,54,0,38,US Dollar,2.1,2.5,3.3,47.5765197,-92.3031692
+1799,hoodoo-ski-area,North America,USA,Oregon,http://www.skiresort.info/ski-resort/hoodoo-ski-area/,1740,6,8,3,54,0,34,US Dollar,2.3,2.6,3,44.408755,-121.871381
+944,dagmar-ski-resort,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/dagmar-ski-resort/,199,1.7,1,0.3,54.87,0,48.67,Canadian Dollar,1.5,1.8,3,44.01433,-79.049463
+3191,nashoba-valley,North America,USA,Massachusetts,http://www.skiresort.info/ski-resort/nashoba-valley/,128,1,3,1.8,55,0,0,US Dollar,1.7,2,2.9,42.542564,-71.445036
+1846,hunt-hollow-ski-club,North America,USA,New York,http://www.skiresort.info/ski-resort/hunt-hollow-ski-club/,360,2,2,1,55,0,45,US Dollar,1.7,2,2.9,42.6459844,-77.4780707
+106,alpine-mountain-ski-snow-tubing-center,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/alpine-mountain-ski-snow-tubing-center/,351,2,4,2,55,0,45,US Dollar,1.9,2.3,3,41.039612,-75.085262
+3704,powder-ridge-mountain-park-resort,North America,USA,Connecticut,http://www.skiresort.info/ski-resort/powder-ridge-mountain-park-resort/,245,2.5,2,1,55,0,44,US Dollar,1.7,2,3,41.500524,-72.740749
+2148,king-pine-purity-spring-resort,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/king-pine-purity-spring-resort/,240,2.8,1.5,1,55,0,38,US Dollar,1.7,2,2.9,43.860775,-71.0893681
+4411,snow-king-mountain-jackson,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/snow-king-mountain-jackson/,2380,3,2.5,3.5,55,0,35,US Dollar,2,2.4,3,43.4737,-110.7589999
+2834,middlebury-college-snow-bowl,North America,USA,Vermont,http://www.skiresort.info/ski-resort/middlebury-college-snow-bowl/,810,5,4,6,55,45,15,US Dollar,2.2,2.6,3,43.9391922,-72.9575872
+3101,mt-spokane,North America,USA,Washington State,http://www.skiresort.info/ski-resort/mt-spokane/,1795,7,5,14,55,0,45,US Dollar,2.7,3,3,47.9212881,-117.114094
+4072,sandia-peak,North America,USA,New Mexico,http://www.skiresort.info/ski-resort/sandia-peak/,3140,8,20,3,55,45,40,US Dollar,2.8,3.1,2.8,35.2037063,-106.4505666
+3611,pine-knob,North America,USA,Michigan,http://www.skiresort.info/ski-resort/pine-knob/,392,1,2.5,1.5,56,0,0,US Dollar,1.7,2,2.8,42.7422524,-83.3671629
+5305,wolf-ridge,North America,USA,North Carolina,http://www.skiresort.info/ski-resort/wolf-ridge/,1432,3,2,1,56,0,46,US Dollar,1.7,2,3,35.1653788,-82.9359697
+183,antoine-mountain,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/antoine-mountain/,362,4,4,3,56,0,43,Canadian Dollar,2.1,2.5,2.9,46.3683351,-78.7344751
+4474,song-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/song-mountain/,585,4.5,6,2.5,56,0,46,US Dollar,2.2,2.5,2.9,42.774219,-76.158766
+189,apache,North America,USA,New Mexico,http://www.skiresort.info/ski-resort/apache/,3475,12,18,25,56,49,40,US Dollar,3.3,3.6,3.4,33.3253573,-105.9027681
+3047,mount-st-louis-moonstone,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/mount-st-louis-moonstone/,382,7,10,3,57,0,43,Canadian Dollar,2.4,2.7,3.6,44.6060377,-79.7019713
+2735,manning-park,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/manning-park/,1790,7,10,8,57,47,37,Canadian Dollar,2.5,2.9,2.8,49.064647,-120.781581
+2427,lakeridge-resort,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/lakeridge-resort/,370,1.5,1,0.5,57.75,0,48.3,Canadian Dollar,1.5,1.8,2.9,44.0278045,-79.0630049
+3100,mt-southington,North America,USA,Connecticut,http://www.skiresort.info/ski-resort/mt-southington/,173,2,3,0.8,58,0,48,US Dollar,1.7,2,3,41.5820605,-72.9249201
+34,afton-alps,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/afton-alps/,387,3,3,2,58,0,53,US Dollar,1.9,2.3,3,44.8576608,-92.7878062
+3099,mt-shasta-ski-park,North America,USA,California,http://www.skiresort.info/ski-resort/mt-shasta-ski-park/,2100,5,8,10,58,0,32,US Dollar,2.5,2.8,3,41.321106,-122.203502
+2,49-degrees-north-mountain-resort,North America,USA,Washington State,http://www.skiresort.info/ski-resort/49-degrees-north-mountain-resort/,1760,20,27,21,58,0,48,US Dollar,3.5,3.9,3,48.3010972,-117.5629161
+3069,mt-bohemia,North America,USA,Michigan,http://www.skiresort.info/ski-resort/mt-bohemia/,445,0,3,10,59,0,0,US Dollar,2.2,2.2,3,47.3885878,-88.0221712
+443,big-bear-at-masthope-mountain,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/big-bear-at-masthope-mountain/,450,3,2,2,59,0,45,US Dollar,1.9,2.3,3,41.5232598,-75.0250626
+5232,west-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/west-mountain/,435,5.9,2.1,1.7,59,49,45,US Dollar,2,2.3,3,43.2856216,-73.7252813
+1036,donner-ski-area,North America,USA,Western United States,http://www.skiresort.info/ski-resort/donner-ski-area/,2240,6,8,0,59,47,25,US Dollar,2.2,2.2,3,39.3176821,-120.3303293
+3042,mount-seymour,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/mount-seymour/,1265,9,9,5,59,45,26,Canadian Dollar,2,3,3,49.3933333,-122.9444444
+513,bogus-basin,North America,USA,Idaho,http://www.skiresort.info/ski-resort/bogus-basin/,2311,11,22,17,59,49,25,US Dollar,3.2,3.5,3.7,43.7640569,-116.1026168
+2945,mont-saint-sauveur,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-saint-sauveur/,629,10,20,8,59.99,49.99,39.99,Canadian Dollar,3,3,4,45.88492,-74.151827
+2884,mohawk-mountain,North America,USA,Connecticut,http://www.skiresort.info/ski-resort/mohawk-mountain/,454,3,2,3,60,0,52,US Dollar,1.9,2.3,3,41.838231,-73.3150586
+2743,marble-mountain-steady-brook-humber-valley,North America,Canada,Newfoundland and Labrador,http://www.skiresort.info/ski-resort/marble-mountain-steady-brook-humber-valley/,546,4,8,6,60,35,30,Canadian Dollar,2.4,2.7,3.6,48.9481564,-57.8310109
+4296,silver-mountain,North America,USA,Idaho,http://www.skiresort.info/ski-resort/silver-mountain/,1920,4,8,13,60,0,45,US Dollar,2.6,2.9,3.8,48.964664,-116.7468914
+2169,kissing-bridge,North America,USA,New York,http://www.skiresort.info/ski-resort/kissing-bridge/,520,4.5,4.8,8.5,60,0,50,US Dollar,2.3,2.7,3,42.6001848,-78.6526985
+1835,hudson-bay-mountain-smithers,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/hudson-bay-mountain-smithers/,1650,18,13,6,60,45,30,Canadian Dollar,2.9,3.2,2.5,54.780112,-127.1711829
+590,bridger-bowl-bozeman,North America,USA,Montana,http://www.skiresort.info/ski-resort/bridger-bowl-bozeman/,2682,20,26,25,60,0,22,US Dollar,3.6,4,3,45.8173562,-110.8966184
+3636,plattekill,North America,USA,New York,http://www.skiresort.info/ski-resort/plattekill/,1014,4.5,6,6,61,50,48,US Dollar,2.3,2.7,2.9,41.6239741,-74.0593872
+1815,horseshoe-resort,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/horseshoe-resort/,390,2,3.8,0.2,62,0,49,Canadian Dollar,1.7,1.9,3.3,44.5494768,-79.672466
+2958,montage-mountain-resort,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/montage-mountain-resort/,594,2,4,3.5,62,0,49,US Dollar,2,2.3,3,41.3512429,-75.6629169
+4238,shawnee-mountain,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/shawnee-mountain/,350,4,9,5,62,0,45,US Dollar,2.3,2.6,3.2,41.039612,-75.085262
+2952,mont-sutton,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-sutton/,840,6,7,7,62,43,35,Canadian Dollar,2.4,2.8,3.2,45.1046261,-72.5618618
+2937,mont-orford,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-orford/,850,10,8,12,62,46,35,Canadian Dollar,2.8,3.2,3.5,45.292364,-72.263024
+3067,mt-baker,North America,USA,Washington State,http://www.skiresort.info/ski-resort/mt-baker/,1525,24,45,31,62,40,30,US Dollar,3.9,4.2,3,48.7766868,-121.8144143
+2736,mansfield-ski-club,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/mansfield-ski-club/,370,0.6,2,1.4,63,0,50,Canadian Dollar,1.5,1.8,2.7,44.195702,-80.052056
+3070,mt-brighton,North America,USA,Michigan,http://www.skiresort.info/ski-resort/mt-brighton/,340,1,3.5,1.7,63,0,0,US Dollar,1.7,2,2.7,42.5407834,-83.8115528
+4680,sunlight-mountain,North America,USA,Colorado,http://www.skiresort.info/ski-resort/sunlight-mountain/,3015,4,11,5,63,0,45,US Dollar,2.5,2.8,3,39.4263707,-107.380331
+1491,grouse-mountain,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/grouse-mountain/,1250,5.2,14.4,13.4,63,45,28,Canadian Dollar,2,3,4,49.3801396,-123.081458
+5244,white-pass,North America,USA,Washington State,http://www.skiresort.info/ski-resort/white-pass/,1986,10,12,8,63,0,43,US Dollar,2.8,3.2,3.7,46.6387257,-121.389528
+5224,wenatchee-mission-ridge,North America,USA,Washington State,http://www.skiresort.info/ski-resort/wenatchee-mission-ridge/,2078,10,60,30,63,0,43,US Dollar,4,4.3,3.4,47.2924455,-120.3997706
+5274,wilmot-mountain,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/wilmot-mountain/,292,1.4,1.6,1,64,0,59,US Dollar,1.5,1.9,2.9,42.4989548,-88.1876602
+663,burke-mountain,North America,USA,Vermont,http://www.skiresort.info/ski-resort/burke-mountain/,975,2,4,4,64,55,47,US Dollar,2.1,2.4,3.7,44.5711658,-71.8923159
+917,crotched-mountain,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/crotched-mountain/,630,2.5,4,1.5,64,0,54,US Dollar,1.9,2.2,3.4,42.9984151,-71.8736895
+525,boreal,North America,USA,Western United States,http://www.skiresort.info/ski-resort/boreal/,2357,6,11,3,64,44,34,US Dollar,2.4,2.7,3.3,39.3364539,-120.3498347
+614,brundage-mountain,North America,USA,Idaho,http://www.skiresort.info/ski-resort/brundage-mountain/,2328,6,15,9,64,37,23,US Dollar,2.8,3.1,3.4,45.0054,-116.1544121
+4604,stoneham-mountain-resort,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/stoneham-mountain-resort/,632,8,14,10,64,45,30,Canadian Dollar,2.7,3.1,3.7,47.0303739,-71.3930229
+4378,skyloft,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/skyloft/,404,1.5,2.5,1,65,0,55,Canadian Dollar,1.7,2,2.7,44.030133,-79.0760715
+732,cataloochee,North America,USA,North Carolina,http://www.skiresort.info/ski-resort/cataloochee/,1583,1.5,3,1.5,65,0,47,US Dollar,1.7,2.1,3,35.6401005,-83.0801441
+619,bryce-resort,North America,USA,Virginia,http://www.skiresort.info/ski-resort/bryce-resort/,533,2,2.8,0.2,65,0,58,US Dollar,1.7,1.9,3,38.8174647,-78.7656946
+3446,otsego-gaylord,North America,USA,Michigan,http://www.skiresort.info/ski-resort/otsego-gaylord/,422,3,2,2,65,55,50,US Dollar,1.9,2.3,3,45.0275126,-84.6747523
+373,beech-mountain,North America,USA,North Carolina,http://www.skiresort.info/ski-resort/beech-mountain/,1678,3,7,4,65,0,45,US Dollar,2.2,2.5,3.3,36.2109584,-81.8890031
+4239,shawnee-peak,North America,USA,Maine,http://www.skiresort.info/ski-resort/shawnee-peak/,550,4,12,7,65,0,50,US Dollar,2.5,2.8,3,44.058996,-70.815538
+1076,eagle-point,North America,USA,Utah,http://www.skiresort.info/ski-resort/eagle-point/,3230,6,9,5,65,0,50,US Dollar,2.4,2.8,3,38.3203245,-112.3838562
+733,catamount,North America,USA,Massachusetts,http://www.skiresort.info/ski-resort/catamount/,580,8,4,3,66,0,56,US Dollar,2.2,2.5,3,42.1690998,-73.4769258
+3525,pats-peak,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/pats-peak/,426,10,8,15,66,0,56,US Dollar,2.7,3,2.9,43.1639733,-71.7976596
+679,caledon-ski-club,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/caledon-ski-club/,414,2,2.5,1.5,67,57,50,Canadian Dollar,1.7,2.1,3,43.8017614,-80.0124143
+357,bear-creek-mountain-resort,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/bear-creek-mountain-resort/,335,3,4,3,67,0,58,US Dollar,2,2.4,3,40.4753327,-75.6252952
+2700,magic-mountain,North America,USA,Vermont,http://www.skiresort.info/ski-resort/magic-mountain/,868,7,7,9,67,59,48,US Dollar,2.6,3,3,43.201708,-72.772646
+684,camelback,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/camelback/,623,20,11,3,67,0,49,US Dollar,2.7,2.9,3.3,41.0422088,-75.3520169
+3963,roundtop,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/roundtop/,410,1.5,3,3,68,0,56,US Dollar,1.9,2.2,3,39.7959301,-77.2310958
+4651,suicide-six,North America,USA,Vermont,http://www.skiresort.info/ski-resort/suicide-six/,411,3.5,4,3,68,0,50,US Dollar,2,2.4,3,43.6650614,-72.5432659
+388,belleayre-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/belleayre-mountain/,1045,5,11,4,68,58,46,US Dollar,2.4,2.7,3.6,42.1322453,-74.505312
+604,bromont,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/bromont/,565,10,15,20,68,52,37,Canadian Dollar,3,3.3,3.3,45.2852479,-72.6872419
+4236,shanty-creek-resorts-summit-mountain,North America,USA,Michigan,http://www.skiresort.info/ski-resort/shanty-creek-resorts-summit-mountain/,300,0.8,2.5,0.7,69,59,54,US Dollar,1.5,1.8,3,44.9492614,-85.1851468
+3068,mt-baldy,North America,USA,California,http://www.skiresort.info/ski-resort/mt-baldy/,2620,3,6,11,69,49,39,US Dollar,2.5,2.8,3,34.2363809,-117.6589752
+5174,wachusett-mountain,North America,USA,Massachusetts,http://www.skiresort.info/ski-resort/wachusett-mountain/,611,3.6,4.8,3.6,69,0,56,US Dollar,2.1,2.5,4.1,42.4891723,-71.8870425
+3051,mountain-creek-vernon,North America,USA,New Jersey,http://www.skiresort.info/ski-resort/mountain-creek-vernon/,451,4,14,6,69,0,53.99,US Dollar,2.5,2.8,3.4,41.1907548,-74.5052234
+4014,saddleback,North America,USA,Maine,http://www.skiresort.info/ski-resort/saddleback/,1220,4,8,10,69,0,59,US Dollar,2.6,2.9,2.9,44.936723,-70.5031231
+4235,shanty-creek-resorts-schuss-mountain,North America,USA,Michigan,http://www.skiresort.info/ski-resort/shanty-creek-resorts-schuss-mountain/,356,5,4,3,69,59,54,US Dollar,2.1,2.5,3,44.9492614,-85.1851468
+4759,tamarack-resort,North America,USA,Idaho,http://www.skiresort.info/ski-resort/tamarack-resort/,2347,12,20,10,69,44,30,US Dollar,3,3.3,4,44.669782,-116.124104
+1037,donner-ski-ranch,North America,USA,Western United States,http://www.skiresort.info/ski-resort/donner-ski-ranch/,2371,13,26,13,69,59,29,US Dollar,3.1,3.5,3,39.3176821,-120.3303293
+589,brian-head,North America,USA,Utah,http://www.skiresort.info/ski-resort/brian-head/,3328,22,24,25,69,0,50,US Dollar,3.5,3.9,3.3,37.6927551,-112.8507766
+2450,las-vegas-ski-and-snowboard-resort-lee-canyon,North America,USA,Nevada,http://www.skiresort.info/ski-resort/las-vegas-ski-and-snowboard-resort-lee-canyon/,2856,0.3,5,2,70,0,60,US Dollar,1.9,2.1,2.8,36.3037018,-115.6796327
+2766,massanutten,North America,USA,Virginia,http://www.skiresort.info/ski-resort/massanutten/,871,2,3.5,2.5,70,0,60,US Dollar,1.9,2.3,2.9,38.4095701,-78.7378004
+1786,holimont,North America,USA,New York,http://www.skiresort.info/ski-resort/holimont/,689,4,6,10,70,0,55,US Dollar,2.4,2.7,3.2,42.2732483,-78.689067
+499,blue-mountain-resort-collingwood,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/blue-mountain-resort-collingwood/,450,6.1,14.3,8.9,70,53,10,Canadian Dollar,2.6,2.9,4,44.503346,-80.310917
+4673,sundance,North America,USA,Utah,http://www.skiresort.info/ski-resort/sundance/,2515,15,20,9,70,0,43,US Dollar,3,3.3,3,40.3934222,-111.5887709
+5303,wolf-creek,North America,USA,Colorado,http://www.skiresort.info/ski-resort/wolf-creek/,3628,20,35,45,70,0,36,US Dollar,3.9,4.2,3.4,36.9875272,-106.4946394
+3424,osler-bluff-ski-club,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/osler-bluff-ski-club/,517,5,7,9,70.8,0,48.67,Canadian Dollar,2.4,2.7,3.8,44.4619499,-80.2808412
+3707,powderhorn,North America,USA,Colorado,http://www.skiresort.info/ski-resort/powderhorn/,3000,5,15,18,71,60,35,US Dollar,2.9,3.2,3.6,38.2769386,-107.0958841
+918,crystal-mountain-mi,North America,USA,Michigan,http://www.skiresort.info/ski-resort/crystal-mountain-mi/,359,1.2,2.3,1.4,72,0,62,US Dollar,1.5,1.8,3.3,44.5194286,-85.9909959
+4644,sugar-mountain,North America,USA,North Carolina,http://www.skiresort.info/ski-resort/sugar-mountain/,1589,4,7,3,72,0,49,US Dollar,2.2,2.5,3.7,36.127349,-81.8601122
+596,bristol-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/bristol-mountain/,670,6,10,4,72,0,57,US Dollar,2.4,2.7,3.6,42.7452867,-77.4043108
+904,cranmore-mountain-resort,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/cranmore-mountain-resort/,609,16,19,8,72,59,45,US Dollar,2.9,3.2,3.4,44.0568523,-71.0995926
+1670,hidden-valley-highlands,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/hidden-valley-highlands/,380,1.8,0.7,0.5,73,64,53,Canadian Dollar,1.5,1.8,3,45.356103,-79.129683
+3846,red-river,North America,USA,New Mexico,http://www.skiresort.info/ski-resort/red-river/,3135,7,6,7,73,67,57,US Dollar,2.4,2.8,3,36.7080849,-105.4061159
+168,angel-fire,North America,USA,New Mexico,http://www.skiresort.info/ski-resort/angel-fire/,3256,40,28,7,73,63,53,US Dollar,3.7,3.9,3.9,36.3930879,-105.2850091
+3054,mountain-high-north,North America,USA,California,http://www.skiresort.info/ski-resort/mountain-high-north/,2287,2,3,0,74,0,35,US Dollar,1.7,1.7,3,34.3769418,-117.6915242
+3053,mountain-high-east,North America,USA,California,http://www.skiresort.info/ski-resort/mountain-high-east/,2496,2,5,4,74,0,35,US Dollar,2.1,2.4,3.9,34.3769418,-117.6915242
+3055,mountain-high-west,North America,USA,California,http://www.skiresort.info/ski-resort/mountain-high-west/,2410,3,5,7,74,0,35,US Dollar,2.2,2.5,3.4,34.3769418,-117.6915242
+2894,monarch,North America,USA,Colorado,http://www.skiresort.info/ski-resort/monarch/,3630,5,14,12,74,45,30,US Dollar,2.7,3,3,38.5526022,-106.2939187
+3094,mt-norquay-banff,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/mt-norquay-banff/,2133,5.1,4.1,7.2,74,56,29,Canadian Dollar,2,3,3,51.2014951,-115.5999046
+1441,granby-ranch,North America,USA,Colorado,http://www.skiresort.info/ski-resort/granby-ranch/,2804,6,10,4,74,0,44,US Dollar,2.4,2.7,3.5,40.0452206,-105.9061962
+4587,stevens-pass,North America,USA,Washington State,http://www.skiresort.info/ski-resort/stevens-pass/,1750,6,18,15,74,0,50,US Dollar,2.9,3.2,3.5,47.7462223,-121.0859328
+3597,pico-mountain,North America,USA,Vermont,http://www.skiresort.info/ski-resort/pico-mountain/,1209,6.8,15,8.6,74,0,57,US Dollar,2.8,3.1,3.8,43.6621499,-72.842512
+520,bolton-valley,North America,USA,Vermont,http://www.skiresort.info/ski-resort/bolton-valley/,960,15,10,5,74,0,64,US Dollar,3,4,2,44.42099,-72.850323
+987,devils-glen,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/devils-glen/,510,1,1,1,75,0,47,Canadian Dollar,1.5,1.9,3,44.3610299,-80.2071551
+1359,georgian-peaks-club,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/georgian-peaks-club/,430,2,6,1,75,60,60,Canadian Dollar,2,2.3,3.4,44.5350638,-80.3788678
+369,beaver-valley-ski-club,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/beaver-valley-ski-club/,410,3,8,4,75,0,50,Canadian Dollar,2.2,2.5,3,44.357747,-80.544822
+926,cypress-mountain,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/cypress-mountain/,1440,6.6,22,22.4,75,54,34,Canadian Dollar,3,4,4,49.3388888,-122.8077777
+4080,santa-fe,North America,USA,New Mexico,http://www.skiresort.info/ski-resort/santa-fe/,3679,9,15,10,75,60,52,US Dollar,2.8,3.2,3,35.6869752,-105.937799
+2644,loveland,North America,USA,Colorado,http://www.skiresort.info/ski-resort/loveland/,3871,12,38,43,75,0,32,US Dollar,3,4,3,40.3977612,-105.0749801
+707,cannon-mountain,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/cannon-mountain/,1243,15,25,10,75,62,53,US Dollar,3.2,3.5,3.2,44.1564536,-71.6984172
+1785,holiday-valley,North America,USA,New York,http://www.skiresort.info/ski-resort/holiday-valley/,685,16,13,19,75,0,59,US Dollar,3,3.4,3.5,42.2577157,-78.6768496
+2570,liberty-mountain,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/liberty-mountain/,355,3,4,2,76,0,64,US Dollar,2,2.3,3,39.76366,-77.375459
+4852,timberline,North America,USA,Oregon,http://www.skiresort.info/ski-resort/timberline/,2603,8,15,8,76,63,34,US Dollar,2.9,3.3,4.1,45.3311307,-121.7110071
+190,apex-resort,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/apex-resort/,2180,8,33,26,78,64,48,Canadian Dollar,3.5,3.8,3.6,49.390317,-119.904704
+2493,le-massif-de-charlevoix,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/le-massif-de-charlevoix/,806,12,16,11,78,57,39,Canadian Dollar,2.9,3.3,4.2,47.2799543,-70.5718336
+101,alpental,North America,USA,Washington State,http://www.skiresort.info/ski-resort/alpental/,1670,0.5,2.3,6.8,79,55,15,US Dollar,2.1,2.3,3.5,47.444154,-121.4259301
+4421,snow-valley,North America,USA,California,http://www.skiresort.info/ski-resort/snow-valley/,2390,4,20,10,79,69,35,US Dollar,2.7,3,3.3,34.2200076,-117.0605928
+3801,ragged-mountain,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/ragged-mountain/,680,4.5,10,8,79,65,55,US Dollar,2.5,2.8,3.9,43.4678528,-71.8292474
+4835,the-summit-at-snoqualmie,North America,USA,Washington State,http://www.skiresort.info/ski-resort/the-summit-at-snoqualmie/,1180,5.2,13.7,9,79,55,15,US Dollar,2.6,2.9,3.2,47.42044,-121.4211049
+4853,timberline-four-seasons,North America,USA,West Virginia,http://www.skiresort.info/ski-resort/timberline-four-seasons/,1301,6,6,6,79,0,55,US Dollar,2.3,2.7,3,39.042453,-79.39903
+991,diamond-peak,North America,USA,Western United States,http://www.skiresort.info/ski-resort/diamond-peak/,2602,6,14,10,79,64,39,US Dollar,2.8,3.1,3.4,43.5204007,-122.1497581
+594,brighton,North America,USA,Utah,http://www.skiresort.info/ski-resort/brighton/,3200,10,18,38,79,0,49,US Dollar,3.5,3.8,4.1,40.60384,-111.5821429
+2946,mont-sainte-anne-beaupre,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-sainte-anne-beaupre/,800,15,34,24,79,56,39,Canadian Dollar,3.6,3.9,4.1,47.0833333,-70.9333333
+360,bear-valley,North America,USA,California,http://www.skiresort.info/ski-resort/bear-valley/,2590,17,27,23,79,68,32,US Dollar,3.5,3.9,3.4,38.4646337,-120.0399088
+5248,whitefish-mountain-resort,North America,USA,Montana,http://www.skiresort.info/ski-resort/whitefish-mountain-resort/,2078,18,46,27,79,68,40,US Dollar,3.9,4.2,3.5,48.4805905,-114.3503233
+4182,schweitzer-mountain-resort,North America,USA,Idaho,http://www.skiresort.info/ski-resort/schweitzer-mountain-resort/,1950,20,40,35,79,0,50,US Dollar,4,4.3,3.6,48.3672738,-116.6233189
+2147,kimberley,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/kimberley/,1982,15,35,30,79.95,59.95,31.95,Canadian Dollar,3,4,3,49.6651567,-115.9967207
+3301,nubs-nob-ski-area,North America,USA,Michigan,http://www.skiresort.info/ski-resort/nubs-nob-ski-area/,403,6.2,9,3.7,80,68,57,US Dollar,2.3,2.6,3,45.4717721,-84.9040952
+919,crystal-mountain-wa,North America,USA,Washington State,http://www.skiresort.info/ski-resort/crystal-mountain-wa/,2137,8,27,15,80,0,56,US Dollar,3.2,3.5,3.8,46.9281666,-121.5045349
+107,alpine-ski-club-collingwood,North America,Canada,Ontario,http://www.skiresort.info/ski-resort/alpine-ski-club-collingwood/,460,10,6,4,80,0,55,Canadian Dollar,2.4,2.7,3.4,44.5233681,-80.347586
+1453,granite-peak-at-rib-mountain-state-park,North America,USA,Wisconsin,http://www.skiresort.info/ski-resort/granite-peak-at-rib-mountain-state-park/,594,10,5,5,80,0,60,US Dollar,2.4,2.8,3.4,44.921581,-89.688221
+4387,smugglers-notch,North America,USA,Vermont,http://www.skiresort.info/ski-resort/smugglers-notch/,1112,13,41,24,80,0,64,US Dollar,3.7,4,3,44.5553294,-72.795679
+1847,hunter-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/hunter-mountain/,975,18,18,19,80,0,64,US Dollar,3.2,3.6,3.4,42.207763,-74.207797
+5207,waterville-valley,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/waterville-valley/,1220,3.5,16,5.5,81,71,61,US Dollar,2.6,2.9,3.3,43.9500695,-71.4995204
+2671,lutsen-mountains,North America,USA,Minnesota,http://www.skiresort.info/ski-resort/lutsen-mountains/,503,8,19,13,82,0,67,US Dollar,2.9,3.2,3.6,47.663713,-90.7135557
+3082,mt-hood-meadows,North America,USA,Oregon,http://www.skiresort.info/ski-resort/mt-hood-meadows/,2225,13.5,45,31.5,82,0,49,US Dollar,3.9,4.2,3.9,45.3317552,-121.6651848
+2687,mad-river-glen,North America,USA,Vermont,http://www.skiresort.info/ski-resort/mad-river-glen/,1108,14,17,15,82,0,68,US Dollar,3.1,3.5,3,44.2024842,-72.9175431
+1967,jay-peak,North America,USA,Vermont,http://www.skiresort.info/ski-resort/jay-peak/,1175,15,31,30,82,0,64,US Dollar,3.7,4,3.2,44.9649254,-72.4602429
+1423,gore-mountain,North America,USA,New York,http://www.skiresort.info/ski-resort/gore-mountain/,1097,6.7,28.2,23.3,83,65,46,US Dollar,3.3,3.6,3.6,43.6732782,-74.0068455
+5251,whitewater-nelson,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/whitewater-nelson/,2003,10,20,20,83.5,66.5,41.5,Canadian Dollar,3.2,3.5,3,49.494022,-117.293644
+5289,wintergreen-resort,North America,USA,Virginia,http://www.skiresort.info/ski-resort/wintergreen-resort/,1071,2,4,4,84,0,64,US Dollar,2,2.3,3.8,37.9298844,-78.94174
+3102,mt-sunapee,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/mt-sunapee/,828,8,16,6,84,67,57,US Dollar,2.7,3,3.6,43.313611,-72.074167
+729,castle-mountain,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/castle-mountain/,2273,9,20,65,84,74,34,Canadian Dollar,3,5,3,51.3273486,-115.9657409
+3176,nakiska,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/nakiska/,2260,4.2,14.7,6.1,84.95,63.95,33.95,Canadian Dollar,3,4,4,50.9427038,-115.1510985
+260,attitash-mountain-resort,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/attitash-mountain-resort/,716,7.4,17.4,12.2,85,0,64,US Dollar,2.9,3.2,3.3,44.082771,-71.229443
+5260,wildcat-mountain,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/wildcat-mountain/,1238,9.4,22.1,14,85,0,64,US Dollar,3.1,3.4,3.5,44.2589548,-71.2014625
+136,alyeska-resort-girdwood,North America,USA,Alaska,http://www.skiresort.info/ski-resort/alyeska-resort-girdwood/,840,14,31,17,85,68,39,US Dollar,3.4,3.7,3.5,60.9704373,-149.0985114
+3702,powder-mountain,North America,USA,Utah,http://www.skiresort.info/ski-resort/powder-mountain/,2712,30,50,55,85,0,47,US Dollar,4.5,4.8,3.2,41.378963,-111.780685
+4228,seven-springs,North America,USA,Pennsylvania,http://www.skiresort.info/ski-resort/seven-springs/,915,6,7,4,87,0,67,US Dollar,2.3,2.6,3.3,40.0219309,-79.29024
+4466,solitude,North America,USA,Utah,http://www.skiresort.info/ski-resort/solitude/,3000,20,30,14,88,56,0,US Dollar,3.4,3.7,3.8,40.6210616,-111.5932552
+548,boyne-highlands,North America,USA,Michigan,http://www.skiresort.info/ski-resort/boyne-highlands/,408,4,3,3,89,79,69,US Dollar,2,2.4,3.2,45.4708444,-84.9354489
+549,boyne-mountain,North America,USA,Michigan,http://www.skiresort.info/ski-resort/boyne-mountain/,372,4.5,6,3.5,89,79,69,US Dollar,2.2,2.6,3.1,45.168065,-84.9161574
+358,bear-mountain-big-bear-lake,North America,USA,California,http://www.skiresort.info/ski-resort/bear-mountain-big-bear-lake/,2684,8,11.2,8,89,73,36,US Dollar,2.7,3.1,3.4,34.2276705,-116.8608046
+4417,snow-summit-big-bear-lake,North America,USA,California,http://www.skiresort.info/ski-resort/snow-summit-big-bear-lake/,2500,10,12,7,89,73,36,US Dollar,2.6,2.9,3.4,34.2375475,-116.8886157
+218,arizona-snowbowl,North America,USA,Arizona,http://www.skiresort.info/ski-resort/arizona-snowbowl/,3505,12,14,11,89,75,55,US Dollar,2.9,3.3,3.3,35.330886,-111.7103
+3050,mount-washington,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/mount-washington/,1588,12,21,27,89,74,49,Canadian Dollar,3.4,3.7,3.5,49.7530555,-125.2963888
+3762,purgatory-durango,North America,USA,Colorado,http://www.skiresort.info/ski-resort/purgatory-durango/,3299,15,40,30,89,70,55,US Dollar,3.8,4.1,3.6,37.2931423,-107.874349
+586,bretton-woods,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/bretton-woods/,945,25,16,15,89,68,53,US Dollar,3.2,3.6,3.8,44.2581201,-71.4411894
+1445,grand-targhee,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/grand-targhee/,3048,5,15,15,90,0,42,US Dollar,2.9,3.2,3.8,43.787113,-110.959296
+3845,red-mountain-resort-rossland,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/red-mountain-resort-rossland/,2075,20,50,50,92,74,46,Canadian Dollar,4.3,4.6,3,49.1024147,-117.8194705
+5247,whiteface-lake-placid,North America,USA,New York,http://www.skiresort.info/ski-resort/whiteface-lake-placid/,1340,7,15,13,94,74,58,US Dollar,3,5,3,44.3658804,-73.9026456
+1119,eldora-mountain,North America,USA,Colorado,http://www.skiresort.info/ski-resort/eldora-mountain/,3292,11,26,15,94,0,54,US Dollar,3.1,3.4,3.2,39.9372203,-105.5826786
+3045,mount-snow,North America,USA,Vermont,http://www.skiresort.info/ski-resort/mount-snow/,1095,6,46,8,95,0,75,US Dollar,3.4,3.7,3.7,42.9602444,-72.9204014
+2630,loon-mountain,North America,USA,New Hampshire,http://www.skiresort.info/ski-resort/loon-mountain/,930,13,26,6,95,83,71,US Dollar,3.1,3.4,3.8,44.03597,-71.6214399
+4669,sun-peaks,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/sun-peaks/,2082,13.5,78,43.5,95,76,48,Canadian Dollar,4,5,4,50.877459,-119.910142
+2755,marmot-basin-jasper,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/marmot-basin-jasper/,2410,26,26,39,95,76,34,Canadian Dollar,3,5,4,52.8011121,-118.0831592
+4646,sugarloaf,North America,USA,Maine,http://www.skiresort.info/ski-resort/sugarloaf/,1286,28,40,51,95,79,69,US Dollar,4.3,4.6,3.4,45.0314444,-70.3131231
+3065,mt-bachelor,North America,USA,Oregon,http://www.skiresort.info/ski-resort/mt-bachelor/,2763,15,25,60,96,78,54,US Dollar,4.1,4.4,4,44.0032939,-121.6787834
+4298,silver-star,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/silver-star/,1915,20,50,45,96,77,50,Canadian Dollar,4,5,4,50.3597927,-119.0588591
+4645,sugarbush,North America,USA,Vermont,http://www.skiresort.info/ski-resort/sugarbush/,1240,17,40,30,97,0,77,US Dollar,3.9,4.2,3.7,44.112005,-72.8559473
+4428,snowbasin,North America,USA,Utah,http://www.skiresort.info/ski-resort/snowbasin/,2850,5,28,15,99,0,55,US Dollar,3.1,3.4,3.9,41.216045,-111.856897
+4440,snowshoe-mountain,North America,USA,West Virginia,http://www.skiresort.info/ski-resort/snowshoe-mountain/,1478,14,11,6,99,87,82,US Dollar,2.7,3,3.5,38.4107965,-79.9936029
+3876,revelstoke-mountain-resort,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/revelstoke-mountain-resort/,2225,16,18,21,99,78,39,Canadian Dollar,3,5,4,50.9583028,-118.1637752
+2954,mont-tremblant,North America,Canada,Quebec,http://www.skiresort.info/ski-resort/mont-tremblant/,875,16.6,25.2,37.1,99,66,56,Canadian Dollar,4,5,4,46.1184616,-74.5961852
+3485,panorama,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/panorama/,2365,20,55,25,99,86,46,Canadian Dollar,4,5,3,50.4583706,-116.2384659
+199,arapahoe-basin,North America,USA,Colorado,http://www.skiresort.info/ski-resort/arapahoe-basin/,3790,40,25,40,100,85,52,US Dollar,3,5,3,39.642312,-105.871685
+4286,sierra-at-tahoe,North America,USA,Western United States,http://www.skiresort.info/ski-resort/sierra-at-tahoe/,2698,12,23,11.5,104,94,43,US Dollar,3,4,3,38.800887,-120.08093
+119,alta,North America,USA,Utah,http://www.skiresort.info/ski-resort/alta/,3215,29,46.4,40.6,104,0,54,US Dollar,4.3,4.7,3.7,40.5888394,-111.6379793
+2425,lake-louise,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/lake-louise/,2637,35,62,42,104,79,39,Canadian Dollar,4,5,4,51.4253705,-116.1772552
+2137,kicking-horse-golden,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/kicking-horse-golden/,2450,20,20,60,104.95,78.95,41.95,Canadian Dollar,3,5,4,51.3066595,-116.9827447
+1219,fernie,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/fernie/,2134,42,58,42,104.95,78.95,41.95,Canadian Dollar,4,5,3,49.5040452,-115.0630649
+450,big-white,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/big-white/,2285,18.9,56.7,29.4,105,89,62,Canadian Dollar,4,5,4,49.7216277,-118.9265789
+4769,taos,North America,USA,New Mexico,http://www.skiresort.info/ski-resort/taos/,3795,27,28,58,105,85,65,US Dollar,4.2,4.5,3,36.4072485,-105.5730665
+4675,sunday-river,North America,USA,Maine,http://www.skiresort.info/ski-resort/sunday-river/,957,30,40,14,105,79,69,US Dollar,3.8,4.1,3.6,44.4929497,-70.8585535
+4622,stratton,North America,USA,Vermont,http://www.skiresort.info/ski-resort/stratton/,1181,60,20,12,105,89,79,US Dollar,3.9,4.2,3.7,43.0428562,-72.9109334
+2010,june-mountain,North America,USA,California,http://www.skiresort.info/ski-resort/june-mountain/,3075,2.1,12.9,20.7,109,89,0,US Dollar,2.9,3.1,3.6,37.739932,-119.0701438
+4687,sunshine-village,North America,Canada,Alberta,http://www.skiresort.info/ski-resort/sunshine-village/,2730,25,50,34,109,85,42,Canadian Dollar,4,5,4,51.1151858,-115.7632758
+3377,okemo,North America,USA,Vermont,http://www.skiresort.info/ski-resort/okemo/,1019,22,26,22,110,97,84,US Dollar,3.6,4,3.7,43.3958728,-72.7006091
+4643,sugar-bowl,North America,USA,Western United States,http://www.skiresort.info/ski-resort/sugar-bowl/,2555,15.3,40.5,34.2,115,94,66,US Dollar,3.8,4.1,3.7,37.09024,-95.712891
+908,crested-butte,North America,USA,Colorado,http://www.skiresort.info/ski-resort/crested-butte/,3707,27,69,25,115,104,63,US Dollar,4.3,4.6,3.7,38.8697146,-106.9878231
+2146,killington,North America,USA,Vermont,http://www.skiresort.info/ski-resort/killington/,1285,37.4,43,46,115,0,89,US Dollar,4.4,4.8,3.7,43.6775677,-72.7798247
+2164,kirkwood,North America,USA,Western United States,http://www.skiresort.info/ski-resort/kirkwood/,2987,15,30,20,119,107,87,US Dollar,3.5,3.8,3.2,38.7023082,-120.0722442
+1025,dollar-mountain-sun-valley,North America,USA,Idaho,http://www.skiresort.info/ski-resort/dollar-mountain-sun-valley/,2023,7,2,0,120,0,58,US Dollar,2,2,3.7,43.6905069,-114.3461103
+3098,mt-rose,North America,USA,Western United States,http://www.skiresort.info/ski-resort/mt-rose/,2957,20,30,50,125,0,75,US Dollar,4,4.3,3.5,39.3437237,-119.9171448
+318,bald-mountain-sun-valley,North America,USA,Idaho,http://www.skiresort.info/ski-resort/bald-mountain-sun-valley/,2788,35,40,17,125,0,75,US Dollar,4,4.3,3.9,43.6905069,-114.3461103
+4526,squaw-valley,North America,USA,Western United States,http://www.skiresort.info/ski-resort/squaw-valley/,2760,25,45,30,129,112,78,US Dollar,4,5,4,39.1969804,-120.2357055
+4429,snowbird,North America,USA,Utah,http://www.skiresort.info/ski-resort/snowbird/,3353,27,38,38,129,0,61,US Dollar,4.1,4.5,3.7,40.5818948,-111.6552024
+4615,stowe,North America,USA,Vermont,http://www.skiresort.info/ski-resort/stowe/,1116,20,42,8,131,0,111,US Dollar,3,5,4,44.4654332,-72.6874023
+4795,telluride,North America,USA,Colorado,http://www.skiresort.info/ski-resort/telluride/,3815,6.7,51.7,29.8,133,0,79,US Dollar,4,5,4,37.9374939,-107.8122852
+975,deer-valley,North America,USA,Utah,http://www.skiresort.info/ski-resort/deer-valley/,2917,27,41,32,135,135,84,US Dollar,4,4.4,4,40.63738,-111.478306
+447,big-sky-resort,North America,USA,Montana,http://www.skiresort.info/ski-resort/big-sky-resort/,3398,55,69,126,135,115,86,US Dollar,4.9,5,3.6,45.2857289,-111.4012076
+5241,whistler-blackcomb,North America,Canada,British Columbia,http://www.skiresort.info/ski-resort/whistler-blackcomb/,2284,40,110,50,139,119,70,Canadian Dollar,5,5,5,50.1149639,-122.9486474
+3502,park-city,North America,USA,Utah,http://www.skiresort.info/ski-resort/park-city/,3049,27,152,71,145,0,93,US Dollar,4.8,5,3.9,40.6460622,-111.4979729
+1936,jackson-hole,North America,USA,Wyoming,http://www.skiresort.info/ski-resort/jackson-hole/,3185,16,50,50,149,0,91,US Dollar,4.4,4.7,3.6,43.4799291,-110.7624282
+887,copper-mountain,North America,USA,Colorado,http://www.skiresort.info/ski-resort/copper-mountain/,3767,30,40,56,150,0,85,US Dollar,4.4,4.7,3.7,39.502141,-106.1509952
+1622,heavenly,North America,USA,Western United States,http://www.skiresort.info/ski-resort/heavenly/,3060,18,42,34,152,125,90,US Dollar,4,5,4,38.939926,-119.9771868
+3280,northstar-california-resort,North America,USA,Western United States,http://www.skiresort.info/ski-resort/northstar-california-resort/,2624,25,45,27,152,125,90,US Dollar,4,4.4,4.1,39.2745678,-120.1210934
+5282,winter-park-resort,North America,USA,Colorado,http://www.skiresort.info/ski-resort/winter-park-resort/,3676,11,53,79,159,0,99,US Dollar,4,5,4,39.8868485,-105.762548
+2730,mammoth-mountain,North America,USA,California,http://www.skiresort.info/ski-resort/mammoth-mountain/,3369,18.4,48.5,22.9,159,130,64,US Dollar,4,5,4,37.6307692,-119.0326342
+105,alpine-meadows,North America,USA,Western United States,http://www.skiresort.info/ski-resort/alpine-meadows/,2632,25,40,35,159,134,98,US Dollar,3,5,4,39.1785177,-120.2276948
+2133,keystone,North America,USA,Colorado,http://www.skiresort.info/ski-resort/keystone/,3651,25,65,45,159,0,92,US Dollar,4,5,4,39.5791675,-105.9347384
+574,breckenridge,North America,USA,Colorado,http://www.skiresort.info/ski-resort/breckenridge/,3914,28,60,65,164,0,107,US Dollar,4,5,4,39.4816537,-106.0383518
+4566,steamboat,North America,USA,Colorado,http://www.skiresort.info/ski-resort/steamboat/,3221,25,95,45,165,135,105,US Dollar,4.8,5,3.9,40.4849769,-106.8317158
+253,aspen-mountain,North America,USA,Colorado,http://www.skiresort.info/ski-resort/aspen-mountain/,3418,0,49,54,169,0,112,US Dollar,3,4,4,39.1760986,-106.8292058
+670,buttermilk-mountain,North America,USA,Colorado,http://www.skiresort.info/ski-resort/buttermilk-mountain/,3018,11.9,13.3,8.8,169,0,112,US Dollar,3,4,4,39.2057944,-106.8604932
+4436,snowmass,North America,USA,Colorado,http://www.skiresort.info/ski-resort/snowmass/,3813,14.2,111,111,169,0,112,US Dollar,5,5,4,39.3310273,-106.9848271
+252,aspen-highlands,North America,USA,Colorado,http://www.skiresort.info/ski-resort/aspen-highlands/,3559,24.3,40.5,70.2,169,0,112,US Dollar,4,5,4,39.1760986,-106.8292058
+5024,vail,North America,USA,Colorado,http://www.skiresort.info/ski-resort/vail/,3433,57,84,93,169,0,117,US Dollar,5,5,4,39.6402638,-106.3741955
+367,beaver-creek,North America,USA,Colorado,http://www.skiresort.info/ski-resort/beaver-creek/,3488,28.5,64.5,57,189,0,130,US Dollar,4,5,4,39.604225,-106.516515
