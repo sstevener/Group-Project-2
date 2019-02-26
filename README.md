@@ -6,8 +6,8 @@ Resources - Contains the original dataset, cleaned versions plus code to convert
 
 skiResort - Contains the flask app
 
-skiResort > static - Contains the CSS, and javascript files for the visualizations
+skiResort > static - Contains the CSS, and JavaScript files for the visualizations
 
-skiResort > templates - Contains the html pages
+skiResort > templates - Contains the HTML pages
 
-The project is deployed on Heroku and can be accessed using this url: https://ski-resort-project.herokuapp.com
+The project is deployed on Heroku and can be accessed using the url: https://ski-resort-project.herokuapp.com
